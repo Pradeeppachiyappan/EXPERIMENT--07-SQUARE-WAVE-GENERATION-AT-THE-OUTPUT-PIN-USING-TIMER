@@ -1,6 +1,6 @@
 # EXPERIMENT-07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER->
 ### Name : Pradeep Raj P
-### Reg No: 212222240073
+### Reg No : 212222240073
 ## Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
@@ -373,8 +373,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ![Screenshot 2023-05-31 135719](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/e1bab8e5-6fbd-4433-834f-e11e502bde60)
 
-## DUTY CYCLE AND FREQUENCY CALCULATION 
-### FOR PULSE AT 500
+## DUTY CYCLE AND FREQUENCY CALCULATION :
+### For Pulse at 500
 Total Time Period=41ms TON = 2ms
 
 TOFF= 2ms
@@ -387,7 +387,7 @@ FREQUENCY = 1/(TOTAL TIME)
 
 =250Hz
 
-### FOR PULSE AT 700
+### For pulse at 700
 Total Time Period=3.11ms
 
 TON = 2.17ms
@@ -402,7 +402,7 @@ FREQUENCY = 1/(TOTAL TIME)
 
 =322.58Hz
 
-### FOR PULSE AT 900
+### For pulse at 900
 Total Time Period=3.21ms
 
 TON = 2.88
@@ -419,5 +419,5 @@ FREQUENCY = 1/(TOTAL TIME)
 
 
 ## Result :
-A PWM Signal is generated using the following frequency and various duty cycles are simulated
+A PWM Signal is generated using the following frequency and various duty cycles are simulated successfully.
 
